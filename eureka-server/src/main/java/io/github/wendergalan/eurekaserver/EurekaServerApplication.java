@@ -1,4 +1,4 @@
-package io.github.com.eurekaserver;
+package io.github.wendergalan.eurekaserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
